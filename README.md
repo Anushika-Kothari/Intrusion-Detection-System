@@ -1,5 +1,7 @@
 ## Project Overview: Lightweight Intrusion Detection System for Edge Computing
 
+Publication - *Leveraging CNNs, Quantization, and Random Forest for Edge Deployable Intrusion Detection Efficiency, 5th international Conference of Emerging Technology(INCET 2024)*
+
 This project introduces a novel **Intrusion Detection System (IDS)** designed for edge computing environments. The system leverages a combination of **Convolutional Neural Networks (CNNs)** and **Random Forest** for feature reduction, focusing on anomaly detection to identify potential cybersecurity threats efficiently.
 
 ### Key Features
